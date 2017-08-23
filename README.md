@@ -14,6 +14,7 @@
 |data|調査中|
 |contextOut|調査中|
 |source|調査中|
+
 参考:
 - https://api.ai/docs/fulfillment#response
 - https://simple.bookbookbot.com/
